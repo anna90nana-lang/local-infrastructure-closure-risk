@@ -1,1 +1,14 @@
-
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Early Warning of Closure Risk in Neighborhood Sports Facilities"
+authors:
+  - family-names: "Ha"
+    given-names: "Chaewon"
+version: 0.1.0
+date-released: 2026-06-21
+license: MIT
+abstract: >
+  A reproducible pipeline for estimating closure risk of neighborhood sports
+  facilities using survival analysis, tree-based machine learning, SHAP-based
+  interpretation, and a transparent composite risk index (SBRI).
+  Demonstrated on synthetic data that mirrors administrative record structure.
