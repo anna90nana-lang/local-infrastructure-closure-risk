@@ -27,22 +27,22 @@ SHAP attribution → SBRI composite ranking
 #### 1. Survival curves (Kaplan–Meier)
 How facility survival declines over time, by facility type.
 
-![Kaplan-Meier](../figures/km_curves.png)
+![Kaplan-Meier](figures/km_curves.png)
 
 #### 2. Interpretable hazard (Cox PH)
 Direction and magnitude of each driver's effect on closure hazard.
 
-![Cox hazard ratios](../figures/cox_hr.png)
+![Cox hazard ratios](figures/cox_hr.png)
 
 #### 3. Driver attribution (SHAP)
 Which features drive predicted closure risk, and how.
 
-![SHAP summary](../figures/shap_summary.png)
+![SHAP summary](figures/shap_summary.png)
 
 #### 4. Operational risk index (SBRI)
 A transparent composite score separating higher- and lower-risk facilities.
 
-![SBRI distribution](../figures/sbri_dist.png)
+![SBRI distribution](figures/sbri_dist.png)
 
 ---
 
