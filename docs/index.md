@@ -59,5 +59,38 @@ spatial competition analysis · policy evaluation
 - `sbri-dashboard-demo` — spatial risk index & early-warning dashboard (mock-up)
 - `manufacturing-automation-readiness` — workforce / skill data for automation readiness (synthetic)
 
+  ---
+
+## Policy research experience
+
+Researcher with **~60 policy research proposals** and multiple
+government/municipal commissioned studies, spanning sports policy,
+regional development, industry promotion, and accessibility.
+
+### Selected commissioned projects
+- **Small-business closure prediction model** — survival analysis &
+  ML for early warning of business closure
+- **Regional mid/long-term development plans** (e.g., Seongbuk-gu) —
+  strategy frameworks, KPI design, evaluation
+- **Game industry promotion strategy** (Daejeon) — sector analysis,
+  policy roadmap
+- **Game accessibility guidelines** (MCST & KOCCA, 2025) — contributed
+  conceptual framework for accessibility
+- **Organizational diagnosis** (anti-doping agency) — diagnostics,
+  KPI/strategy system design
+- **Education-development special zone** (Jeongeup) — needs analysis,
+  policy design
+
+### Academic record
+- **5–6 peer-reviewed articles** in Korean academic journals (KCI)
+- 1 conference presentation
+- SCI manuscript in preparation (industrial biomechanics)
+
+### Methods
+Structural equation modeling (SPSS / AMOS) · survival analysis (Cox PH) ·
+multi-criteria decision-making (AHP-GA) · multi-objective optimization
+(NSGA-II) · input–output analysis · PSM-DID · spatial analysis (GIS / Kepler) ·
+KPI & strategy-framework design
+
 ## Contact
 GitHub: [@anna90nana-lang](https://github.com/anna90nana-lang)
